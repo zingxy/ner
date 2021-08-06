@@ -1,0 +1,34 @@
+# lstm
+f1 0.8932038834951457
+{'DNAMutation': {'f1': 0.8306997742663657,
+                 'number': 217,
+                 'precision': 0.8141592920353983,
+                 'recall': 0.847926267281106},
+ 'ProteinMutation': {'f1': 0.9382716049382716,
+                     'number': 204,
+                     'precision': 0.945273631840796,
+                     'recall': 0.9313725490196079},
+ 'SNP': {'f1': 1.0, 'number': 39, 'precision': 1.0, 'recall': 1.0},
+ 'overall_accuracy': 0.9967764696116546,
+ 'overall_f1': 0.8920086393088553,
+ 'overall_precision': 0.8862660944206009,
+ 'overall_recall': 0.8978260869565218}
+# gru
+f1
+0.9212513484358145
+
+#
+{'eval_loss': 16.771053314208984, 'eval_precision': 0.9143468950749465, 'eval_recall': 0.9282608695652174, 'eval_f1': 0.9212513484358145, 'eval_accuracy': 0.9969839930272132, 'eval_runtime': 38.8492, 'eval_samples_per_second': 45.69, 'epoch': 82.0}
+{'DNAMutation': {'f1': 0.8693693693693694,
+                 'number': 217,
+                 'precision': 0.8502202643171806,
+                 'recall': 0.8894009216589862},
+ 'ProteinMutation': {'f1': 0.962962962962963,
+                     'number': 204,
+                     'precision': 0.9701492537313433,
+                     'recall': 0.9558823529411765},
+ 'SNP': {'f1': 1.0, 'number': 39, 'precision': 1.0, 'recall': 1.0},
+ 'overall_accuracy': 0.9969839930272132,
+ 'overall_f1': 0.9212513484358145,
+ 'overall_precision': 0.9143468950749465,
+ 'overall_recall': 0.9282608695652174}

@@ -1,0 +1,15 @@
+[
+  {
+    "eval_loss": 22.081979751586914,
+    "eval_precision": 0.9079229122055674,
+    "eval_recall": 0.9217391304347826,
+    "eval_f1": 0.9147788565264293,
+    "eval_accuracy": 0.9969839513004981,
+    "eval_runtime": 51.4431,
+    "eval_samples_per_second": 34.504,
+    "eval_mem_cpu_alloc_delta": 8312331,
+    "eval_mem_gpu_alloc_delta": 2015232,
+    "eval_mem_cpu_peaked_delta": 46977542,
+    "eval_mem_gpu_peaked_delta": 7996567552
+  }
+]

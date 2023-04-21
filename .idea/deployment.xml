@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zing@10.20.215.122:22" createEmptyFolders="true" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="zing@10.16.30.115:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home1/zing/working" local="$PROJECT_DIR$" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zing@10.20.215.122:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home1/zing/working" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

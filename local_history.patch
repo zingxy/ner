@@ -1,0 +1,79 @@
+Index: Huggingface/finetune/BertBilstmCRF.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Huggingface/finetune/BertBilstmCRF.py	(date 1630220992797)
++++ Huggingface/finetune/BertBilstmCRF.py	(date 1630220992797)
+@@ -223,7 +223,7 @@
+         super(BertBilstmCrf, self).__init__(config)
+         self.num_labels = config.num_labels
+         ## Note char emb config
+-        self.using_char_embedding = True
++        self.using_char_embedding = False
+         config.char_embedding_size = 16
+         config.chars_max_length = 8
+         config.word_embedding_size = config.hidden_size
+@@ -321,41 +321,6 @@
+         )
+ 
+ 
+-    def tag_outputs(self, input_ids, token_type_ids=None, input_mask=None, char_embedding=None):
+-        embedding = None
+-        ## Word embedding
+-        outputs = self.bert(input_ids, token_type_ids=token_type_ids, attention_mask=input_mask)
+-        sequence_output = outputs[0]
+-        ## Note protrained
+-        word_embedding = sequence_output
+-        ## Note embedding = word_emb + char_emb   or   word_emb
+-        ## 至少要一个word embedding
+-        if self.using_char_embedding:
+-
+-            embedding = torch.cat((word_embedding, char_embedding), dim=-1)
+-        else:
+-            embedding = word_embedding
+-        ## Note Attention
+-        extended_attention_mask: torch.Tensor = self.get_extended_attention_mask(input_mask, input_mask.shape,
+-                                                                                 device='cuda')
+-        ## Note with / without attention mask.
+-        # with
+-        # attention_output = self.attention(sequence_output, attention_mask=extended_attention_mask)[0]
+-        # without
+-        # attention_output = self.attention(sequence_output)[0]
+-        ## BUG Attention_output
+-        ## Note Bilstm embedding = word + char
+-        birnn_output, _ = self.birnn(embedding)
+-
+-        ### Note AttentionB
+-        #
+-        # attentionb_output = self.attentionB(birnn_output, attention_mask=extended_attention_mask)[0]
+-
+-        # emissions = self.hidden2tag(sequence_output)
+-        emissions = self.hidden2tag(birnn_output)
+-        # emissions = self.hidden2tag(attentionb_output)
+-        # crf前的output, 相当于last_hidden_layer
+-        return emissions
+ 
+ 
+     def embedding2emissions(self,
+@@ -411,19 +376,8 @@
+ 
+ 
+     def predict(self, input_ids, token_type_ids=None, attention_mask=None, **keywords):
+-        char_embedding = None
+-        if self.using_char_embedding:
+-            tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1",
+-                                                      local_files_only=True,
+-                                                      do_lower_case=False  ## Note 大小写敏感
+-                                                      )
+-            tokens = [tokenizer.convert_ids_to_tokens(input_id) for input_id in input_ids]
+ 
+-            character_batchs: Dataset = self.char_model.seq2char(tokens)
+-            # character_batchs.set_format(type='torch', columns=['ids', 'mask'])
+-            char_embedding = self.char_model(character_batchs)
+-
+-        emissions, _ = self.embedding2emissions(input_ids, token_type_ids=None, attention_mask=None)
++        emissions, _ = self.embedding2emissions(input_ids, token_type_ids, attention_mask)
+         X = self.crf.decode(emissions, attention_mask.byte())
+ 
+         # todo X.shape [batch , seq_length], 预测的标签

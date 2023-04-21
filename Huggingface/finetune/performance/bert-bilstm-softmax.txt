@@ -1,0 +1,262 @@
+# biobert lstm crf  30epoches
+{'DNAMutation': {'f1': 0.8306486721811058,
+                 'number': 1129,
+                 'precision': 0.8167808219178082,
+                 'recall': 0.8449955713020372},
+ 'ProteinMutation': {'f1': 0.9561270801815431,
+                     'number': 979,
+                     'precision': 0.9442231075697212,
+                     'recall': 0.9683350357507661},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9938167746277446,
+ 'overall_f1': 0.8999581414817915,
+ 'overall_precision': 0.8880627839735646,
+ 'overall_recall': 0.9121764955451845}
+### 无dropout
+{'DNAMutation': {'f1': 0.8186484174508127,
+                 'number': 1129,
+                 'precision': 0.7915632754342432,
+                 'recall': 0.8476527900797166},
+ 'ProteinMutation': {'f1': 0.9634146341463414,
+                     'number': 979,
+                     'precision': 0.9585439838220424,
+                     'recall': 0.9683350357507661},
+ 'SNP': {'f1': 0.9802371541501975,
+         'number': 249,
+         'precision': 0.9649805447470817,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.994013067496705,
+ 'overall_f1': 0.8948462177888612,
+ 'overall_precision': 0.8769857433808554,
+ 'overall_recall': 0.9134492999575732}
+# attention 30epochs
+{'DNAMutation': {'f1': 0.816082121471343,
+                 'number': 1115,
+                 'precision': 0.7800490596892886,
+                 'recall': 0.8556053811659193},
+ 'ProteinMutation': {'f1': 0.9560269011898602,
+                     'number': 960,
+                     'precision': 0.9496402877697842,
+                     'recall': 0.9625},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.993922387049467,
+ 'overall_f1': 0.8915915286223527,
+ 'overall_precision': 0.8695296523517383,
+ 'overall_recall': 0.9148020654044751}
+## 拟合测试 test test epochs:5
+## lstm + crf
+{'DNAMutation': {'f1': 0.8633308439133681,
+                 'number': 1245,
+                 'precision': 0.8066992323796232,
+                 'recall': 0.9285140562248996},
+ 'ProteinMutation': {'f1': 0.9671407552721922,
+                     'number': 995,
+                     'precision': 0.9444444444444444,
+                     'recall': 0.9909547738693467},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.995476552773551,
+ 'overall_f1': 0.9165867689357623,
+ 'overall_precision': 0.8767424798239178,
+ 'overall_recall': 0.9602249899558055}
+
+## ex_attention_mask + lstm + crf
+'DNAMutation': {'f1': 0.8777777777777778,
+                 'number': 1245,
+                 'precision': 0.8144329896907216,
+                 'recall': 0.9518072289156626},
+ 'ProteinMutation': {'f1': 0.9820179820179821,
+                     'number': 995,
+                     'precision': 0.9761668321747765,
+                     'recall': 0.9879396984924623},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9961128786830821,
+ 'overall_f1': 0.9292307692307692,
+ 'overall_precision': 0.8911840649206935,
+ 'overall_recall': 0.9706709521896344}
+## without ex_attenion_mask
+{'DNAMutation': {'f1': 0.8703703703703705,
+                 'number': 1245,
+                 'precision': 0.8075601374570447,
+                 'recall': 0.9437751004016064},
+ 'ProteinMutation': {'f1': 0.9648688767936665,
+                     'number': 995,
+                     'precision': 0.9502923976608187,
+                     'recall': 0.9798994974874372},
+ 'SNP': {'f1': 0.992,
+         'number': 249,
+         'precision': 0.9880478087649402,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9958777147599944,
+ 'overall_f1': 0.9185979697375982,
+ 'overall_precision': 0.8777452415812591,
+ 'overall_recall': 0.963439132181599}
+
+## ex att lstm att arf
+{'DNAMutation': {'f1': 0.9271114539143848,
+                 'number': 1245,
+                 'precision': 0.8916913946587537,
+                 'recall': 0.9654618473895582},
+ 'ProteinMutation': {'f1': 0.986013986013986,
+                     'number': 995,
+                     'precision': 0.9801390268123138,
+                     'recall': 0.9919597989949749},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9978281920044266,
+ 'overall_f1': 0.9569998036520715,
+ 'overall_precision': 0.9358678955453149,
+ 'overall_recall': 0.9791080755323424}
+
+## train test: att + lstm + att + crf epochs:5
+## model ex att + lstm + att + crf
+{'DNAMutation': {'f1': 0.8068091844813934,
+                 'number': 1245,
+                 'precision': 0.795472287275566,
+                 'recall': 0.8184738955823293},
+ 'ProteinMutation': {'f1': 0.9555106167846309,
+                     'number': 995,
+                     'precision': 0.9613428280773143,
+                     'recall': 0.949748743718593},
+ 'SNP': {'f1': 0.9939879759519038,
+         'number': 249,
+         'precision': 0.992,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9932632452621386,
+ 'overall_f1': 0.8842694383369978,
+ 'overall_precision': 0.8798727128082736,
+ 'overall_recall': 0.8887103254319003}
+## model ex lstm + att + crf
+{'DNAMutation': {'f1': 0.7987271280827367,
+                 'number': 1245,
+                 'precision': 0.7911741528762806,
+                 'recall': 0.8064257028112449},
+ 'ProteinMutation': {'f1': 0.9606060606060606,
+                     'number': 995,
+                     'precision': 0.965482233502538,
+                     'recall': 0.9557788944723619},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9931249135426753,
+ 'overall_f1': 0.8826121794871795,
+ 'overall_precision': 0.8801438274071115,
+ 'overall_recall': 0.8850944154278827}
+
+# att lstm crf att 30 train test
+{'DNAMutation': {'f1': 0.807075277663513,
+                 'number': 1229,
+                 'precision': 0.8161397670549085,
+                 'recall': 0.7982099267697315},
+ 'ProteinMutation': {'f1': 0.9517384535547483,
+                     'number': 979,
+                     'precision': 0.9672995780590717,
+                     'recall': 0.9366700715015321},
+ 'SNP': {'f1': 0.9959839357429718,
+         'number': 249,
+         'precision': 0.9959839357429718,
+         'recall': 0.9959839357429718},
+ 'overall_accuracy': 0.9932805609270878,
+ 'overall_f1': 0.8838550247116967,
+ 'overall_precision': 0.8945393914130888,
+ 'overall_recall': 0.8734228734228734}
+
+# att lstm crf att
+ 'overall_accuracy': 0.9934475035127502,
+ 'overall_f1': 0.8955524250352185,
+ 'overall_precision': 0.8857484076433121,
+ 'overall_recall': 0.9055759055759056}
+# att lstm  crf att
+'overall_f1': 0.8937908496732025,
+ 'overall_precision': 0.8970889708897088,
+ 'overall_recall': 0.8905168905168905}
+# lstm att crf 蛋白质超高的f1
+  self.model_name = "dmis-lab/biobert-base-cased-v1.1"
+    self.batch_size = 16
+    self.max_seq_length = 100
+    self.birnn_hidden_state = 200
+    self.birnn_dropout_prob = 0.1
+    self.lr = 2e-4
+    self.epochs = 5
+    self.weight_decay = 0.01
+    self.train_set = 'train'
+    self.test_set = 'test'
+
+ 'ProteinMutation': {'f1': 0.9713114754098361,
+                     'number': 979,
+                     'precision': 0.9743062692702981,
+                     'recall': 0.9683350357507661}
+ # m self-attention
+ 'overall_f1': 0.8920570264765784,
+ 'overall_precision': 0.8927843456991439,
+ 'overall_recall': 0.8913308913308914}
+
+#### BIO策略  lstm + attention
+0.8925081433224756
+## BBIIO
+{'DNAMutation': {'f1': 0.8151394422310758,
+                 'number': 1251,
+                 'precision': 0.812549642573471,
+                 'recall': 0.8177458033573142},
+ 'ProteinMutation': {'f1': 0.9662468513853903,
+                     'number': 998,
+                     'precision': 0.9716312056737588,
+                     'recall': 0.9609218436873748},
+ 'SNP': {'f1': 1.0, 'number': 249, 'precision': 1.0, 'recall': 1.0},
+ 'overall_accuracy': 0.9936159628565112,
+ 'overall_f1': 0.8936511115561788,
+ 'overall_precision': 0.894188376753507,
+ 'overall_recall': 0.8931144915932746}
+
+# BIO without attention 30 epochs
+max f1 0.8859649122807017
+
+# BIO with attention 30 epochs
+max f1 0.8974641675854466
+
+ ## BIO attention
+{'DNAMutation': {'f1': 0.8227571115973741,
+                 'number': 217,
+                 'precision': 0.7833333333333333,
+                 'recall': 0.8663594470046083},
+ 'ProteinMutation': {'f1': 0.9349999999999999,
+                     'number': 202,
+                     'precision': 0.9444444444444444,
+                     'recall': 0.9257425742574258},
+ 'SNP': {'f1': 1.0, 'number': 39, 'precision': 1.0, 'recall': 1.0},
+ 'overall_accuracy': 0.9967731660365339,
+ 'overall_f1': 0.8855614973262032,
+ 'overall_precision': 0.8679245283018868,
+ 'overall_recall': 0.9039301310043668}
+
+
+#
+max f1 0.8992576882290563
+
+{'DNAMutation': {'f1': 0.8209606986899564,
+                 'number': 217,
+                 'precision': 0.7800829875518672,
+                 'recall': 0.8663594470046083},
+ 'ProteinMutation': {'f1': 0.9402985074626865,
+                     'number': 202,
+                     'precision': 0.945,
+                     'recall': 0.9356435643564357},
+ 'SNP': {'f1': 1.0, 'number': 39, 'precision': 1.0, 'recall': 1.0},
+ 'overall_accuracy': 0.9966900715997064,
+ 'overall_f1': 0.8869936034115139,
+ 'overall_precision': 0.8666666666666667,
+ 'overall_recall': 0.9082969432314411}

@@ -1,0 +1,1901 @@
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+302	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+520	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+68	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##du	I-DNAMutation	I-DNAMutation
+##p	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+95	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+360	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+89	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+157	I-DNAMutation	I-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+308	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+C	B-DNAMutation	O
+-	I-DNAMutation	O
+174	I-DNAMutation	O
+##G	I-DNAMutation	O
+
+
+A1	B-DNAMutation	B-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+G	B-DNAMutation	B-DNAMutation
+##17	I-DNAMutation	I-DNAMutation
+##64	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+G	B-DNAMutation	B-DNAMutation
+##18	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+G	B-DNAMutation	O
+##18	I-DNAMutation	O
+##9	I-DNAMutation	O
+##9	I-DNAMutation	O
+##A	I-DNAMutation	O
+
+
+T	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+trans	I-DNAMutation	I-DNAMutation
+##version	I-DNAMutation	I-DNAMutation
+at	I-DNAMutation	I-DNAMutation
+n	I-DNAMutation	I-DNAMutation
+##uc	I-DNAMutation	I-DNAMutation
+##leo	I-DNAMutation	I-DNAMutation
+##tide	I-DNAMutation	I-DNAMutation
+450	I-DNAMutation	I-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+360	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+36	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##CA	I-DNAMutation	I-DNAMutation
+##AA	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+c	O	B-DNAMutation
+.	O	I-DNAMutation
+1991	O	I-DNAMutation
+-	O	I-DNAMutation
+1993	O	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+69	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+410	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+5	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+251	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+251	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AA	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+##TT	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+39	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+40	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+/	O	I-DNAMutation
+del	O	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+39	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+40	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+39	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+40	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+del	B-DNAMutation	B-DNAMutation
+##64	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+217	B-DNAMutation	B-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+218	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+del	B-DNAMutation	B-ProteinMutation
+##41	I-DNAMutation	I-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+35	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+6	B-DNAMutation	O
+##b	I-DNAMutation	O
+##IN	I-DNAMutation	O
+##S	I-DNAMutation	O
+
+
+222	B-DNAMutation	B-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+91	B-DNAMutation	B-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##TA	I-DNAMutation	I-DNAMutation
+
+83	B-DNAMutation	B-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##18	I-DNAMutation	I-DNAMutation
+
+
+T	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+##70	I-DNAMutation	O
+##4	I-DNAMutation	O
+
+A	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+##11	I-DNAMutation	O
+##6	I-DNAMutation	O
+##6	I-DNAMutation	O
+
+T	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+-	I-DNAMutation	O
+34	I-DNAMutation	O
+##4	I-DNAMutation	O
+
+
+##46	I-ProteinMutation	I-DNAMutation
+##7	I-ProteinMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+T	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+##70	I-DNAMutation	O
+##4	I-DNAMutation	O
+
+A	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+##11	I-DNAMutation	O
+##6	I-DNAMutation	O
+##6	I-DNAMutation	O
+
+T	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+-	I-DNAMutation	O
+34	I-DNAMutation	O
+##4	I-DNAMutation	O
+
+
+146	B-DNAMutation	B-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
+166	B-DNAMutation	B-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+A	B-DNAMutation	O
+116	I-DNAMutation	B-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##SI	I-DNAMutation	I-DNAMutation
+##I	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+(	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+)	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+240	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+GA	B-DNAMutation	O
+##C	I-DNAMutation	O
+/	I-DNAMutation	O
+GA	I-DNAMutation	O
+##T	I-DNAMutation	O
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+3	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##12	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+4	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##12	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+6	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+substitution	I-DNAMutation	I-DNAMutation
+at	I-DNAMutation	I-DNAMutation
+n	I-DNAMutation	I-DNAMutation
+##uc	I-DNAMutation	I-DNAMutation
+##leo	I-DNAMutation	I-DNAMutation
+##tide	I-DNAMutation	I-DNAMutation
+89	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	O
+
+
+g	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+OR	I-DNAMutation	I-DNAMutation
+##F	I-DNAMutation	I-DNAMutation
+##15	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+65	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+65	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+C	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+##26	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+
+g	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+OR	I-DNAMutation	I-DNAMutation
+##F	I-DNAMutation	I-DNAMutation
+##15	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+65	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+65	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+A	B-ProteinMutation	B-DNAMutation
+##46	I-ProteinMutation	I-DNAMutation
+##7	I-ProteinMutation	I-DNAMutation
+##T	I-ProteinMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+100	O	B-DNAMutation
+##34	O	I-DNAMutation
+T	O	I-DNAMutation
+
+
+GA	B-DNAMutation	B-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+GA	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+substitution	O	I-DNAMutation
+
+AC	B-DNAMutation	B-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+AA	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+substitution	I-DNAMutation	O
+in	I-DNAMutation	O
+co	I-DNAMutation	O
+##don	I-DNAMutation	O
+420	I-DNAMutation	O
+
+
+302	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+6	B-DNAMutation	O
+##b	I-DNAMutation	O
+##IN	I-DNAMutation	O
+##S	I-DNAMutation	O
+
+
+C	O	B-DNAMutation
+/	O	I-DNAMutation
+T	O	I-DNAMutation
+
+
+31	B-DNAMutation	B-DNAMutation
+##90	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+C	O	B-DNAMutation
+/	O	I-DNAMutation
+G	O	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+58	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+55	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+
+del	B-DNAMutation	B-DNAMutation
+##64	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+217	B-DNAMutation	B-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+218	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+100	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+13	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
++	B-DNAMutation	B-DNAMutation
+142	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
++	B-DNAMutation	B-DNAMutation
+35	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+206	B-DNAMutation	B-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+206	B-DNAMutation	B-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+-	O	I-DNAMutation
+49	O	I-DNAMutation
+##9	O	I-DNAMutation
+##5	O	I-DNAMutation
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+39	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+40	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+A	B-ProteinMutation	B-DNAMutation
+##46	I-ProteinMutation	I-DNAMutation
+##7	I-ProteinMutation	I-DNAMutation
+##T	I-ProteinMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+substitution	I-DNAMutation	I-DNAMutation
+at	I-DNAMutation	I-DNAMutation
+co	I-DNAMutation	I-DNAMutation
+##don	I-DNAMutation	I-DNAMutation
+1763	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##10	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+4	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+
+
+A	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+transition	I-DNAMutation	I-DNAMutation
+at	I-DNAMutation	I-DNAMutation
+127	I-DNAMutation	I-DNAMutation
+position	I-DNAMutation	I-DNAMutation
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+transition	I-DNAMutation	I-DNAMutation
+at	I-DNAMutation	I-DNAMutation
+103	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+position	I-DNAMutation	I-DNAMutation
+
+co	I-ProteinMutation	I-DNAMutation
+##don	I-ProteinMutation	I-DNAMutation
+322	I-ProteinMutation	I-DNAMutation
+
+
+A1	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##53	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##SI	I-DNAMutation	I-DNAMutation
+##I	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+(	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+)	I-DNAMutation	I-DNAMutation
+
+CD	B-DNAMutation	B-DNAMutation
++	I-DNAMutation	I-DNAMutation
+90	I-DNAMutation	I-DNAMutation
+del	I-DNAMutation	I-DNAMutation
+13	I-DNAMutation	I-DNAMutation
+b	I-DNAMutation	I-DNAMutation
+##p	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+89	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+89	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##du	I-DNAMutation	I-DNAMutation
+##p	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+at	O	I-DNAMutation
+co	O	I-DNAMutation
+##don	O	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+1642	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+1644	I-DNAMutation	I-DNAMutation
+##du	I-DNAMutation	I-DNAMutation
+##p	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+##19	I-DNAMutation	I-DNAMutation
+##15	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+1858	B-DNAMutation	B-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+39	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+40	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+-	O	I-DNAMutation
+49	O	I-DNAMutation
+##9	O	I-DNAMutation
+##5	O	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+108	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+(	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+)	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+262	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+308	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+102	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+del	B-DNAMutation	B-DNAMutation
+32	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+C	B-DNAMutation	B-DNAMutation
+##43	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+210	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
+
+81	O	B-DNAMutation
+
+65	B-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+6	B-DNAMutation	O
+##b	I-DNAMutation	O
+##IN	I-DNAMutation	O
+##S	I-DNAMutation	O
+
+
+6	B-DNAMutation	O
+##b	I-DNAMutation	O
+##IN	I-DNAMutation	O
+##S	I-DNAMutation	O
+
+
+100	B-DNAMutation	B-DNAMutation
+##34	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+66	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##33	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+17	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+171	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+46	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+18	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+A	B-DNAMutation	B-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+p	I-DNAMutation	O
+##oly	I-DNAMutation	O
+##mor	I-DNAMutation	O
+##phism	I-DNAMutation	O
+at	I-DNAMutation	O
+position	I-DNAMutation	O
+-	I-DNAMutation	O
+67	I-DNAMutation	I-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+
+
+-	B-ProteinMutation	B-DNAMutation
+124	I-ProteinMutation	I-DNAMutation
+##0	I-ProteinMutation	I-DNAMutation
+L	I-ProteinMutation	I-DNAMutation
+/	I-ProteinMutation	I-DNAMutation
+S	I-ProteinMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+154	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+154	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+A	B-DNAMutation	B-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+transition	I-DNAMutation	O
+-	I-DNAMutation	O
+1	I-DNAMutation	O
+,	I-DNAMutation	O
+07	I-DNAMutation	O
+##1	I-DNAMutation	O
+b	I-DNAMutation	O
+##p	I-DNAMutation	O
+
+
+302	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+130	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+E	B-DNAMutation	B-DNAMutation
+##X	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+96	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
+
+A	B-DNAMutation	B-ProteinMutation
+116	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+302	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+71	O	B-DNAMutation
+##4	O	I-DNAMutation
+##C	O	I-DNAMutation
+-	O	I-DNAMutation
+>	O	I-DNAMutation
+
+
+g	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+390	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+255	I-DNAMutation	I-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+co	B-DNAMutation	O
+##don	I-DNAMutation	O
+104	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+302	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+46	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+737	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+170	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1715	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+AT	I-DNAMutation	I-DNAMutation
+##CT	I-DNAMutation	I-DNAMutation
+##CC	I-DNAMutation	I-DNAMutation
+##TC	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+39	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+40	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+AG	I-DNAMutation	I-DNAMutation
+##AG	I-DNAMutation	I-DNAMutation
+
+
+-	O	B-DNAMutation
+86	O	I-DNAMutation
+##6	O	I-DNAMutation
+A	O	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+308	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+C	B-DNAMutation	O
+-	I-DNAMutation	O
+174	I-DNAMutation	O
+##G	I-DNAMutation	O
+
+
+-	B-DNAMutation	B-DNAMutation
+100	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+13	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+109	B-DNAMutation	B-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##33	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+r	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+252	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##34	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+
+
+100	O	B-DNAMutation
+##34	O	I-DNAMutation
+T	O	I-DNAMutation
+
+
+157	B-ProteinMutation	B-DNAMutation
+##del	I-ProteinMutation	I-DNAMutation
+##MT	I-ProteinMutation	I-DNAMutation
+##TT	I-ProteinMutation	I-DNAMutation
+##VP	I-ProteinMutation	I-DNAMutation
+
+
+118	B-DNAMutation	B-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+52	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+-	O	B-DNAMutation
+102	O	I-DNAMutation
+##1	O	I-DNAMutation
+##T	O	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+promoter	I-DNAMutation	I-DNAMutation
+(	I-DNAMutation	O
+G	I-DNAMutation	B-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+)	I-DNAMutation	O
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+114	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+25	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+18	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+1858	B-DNAMutation	B-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+90	I-DNAMutation	I-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+130	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+6	B-DNAMutation	O
+##b	I-DNAMutation	O
+##IN	I-DNAMutation	O
+##S	I-DNAMutation	O
+
+
+C	B-DNAMutation	O
+##9	I-DNAMutation	O
+##34	I-DNAMutation	O
+##A	I-DNAMutation	O
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+127	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+128	I-DNAMutation	I-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+T	B-DNAMutation	B-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+I	B-ProteinMutation	B-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+360	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+C	O	B-DNAMutation
+-	O	I-DNAMutation
+174	O	I-DNAMutation
+##C	O	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##30	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+T	B-DNAMutation	B-DNAMutation
+##20	I-DNAMutation	I-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+A	B-ProteinMutation	B-DNAMutation
+##46	I-ProteinMutation	I-DNAMutation
+##7	I-ProteinMutation	I-DNAMutation
+##T	I-ProteinMutation	I-DNAMutation
+
+
+C	O	B-DNAMutation
+##35	O	I-DNAMutation
+##32	O	I-DNAMutation
+##2	O	I-DNAMutation
+##C	O	I-DNAMutation
+
+
+550	B-DNAMutation	B-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+97	I-DNAMutation	I-DNAMutation
+##GC	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+[	I-DNAMutation	I-DNAMutation
+9	I-DNAMutation	I-DNAMutation
+]	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+[	I-DNAMutation	I-DNAMutation
+10	I-DNAMutation	I-DNAMutation
+]	I-DNAMutation	I-DNAMutation
+
+25	B-DNAMutation	B-DNAMutation
+*	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+at	I-DNAMutation	I-DNAMutation
+n	I-DNAMutation	I-DNAMutation
+##uc	I-DNAMutation	I-DNAMutation
+##leo	I-DNAMutation	I-DNAMutation
+##tide	I-DNAMutation	I-DNAMutation
+position	I-DNAMutation	I-DNAMutation
+214	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+
+
+-	O	B-DNAMutation
+102	O	I-DNAMutation
+##1	O	I-DNAMutation
+##T	O	I-DNAMutation
+
+
+delta	B-DNAMutation	B-DNAMutation
+##32	I-DNAMutation	I-DNAMutation
+
+
+C	O	B-DNAMutation
+##35	O	I-DNAMutation
+##32	O	I-DNAMutation
+##2	O	I-DNAMutation
+##T	O	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+34	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##32	I-DNAMutation	I-DNAMutation
+
+
+-	O	B-DNAMutation
+102	O	I-DNAMutation
+##1	O	I-DNAMutation
+##T	O	I-DNAMutation
+
+
+G	B-DNAMutation	B-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##29	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+C	O	B-DNAMutation
+##35	O	I-DNAMutation
+##32	O	I-DNAMutation
+##2	O	I-DNAMutation
+##C	O	I-DNAMutation
+
+
+225	B-DNAMutation	B-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+157	B-ProteinMutation	B-DNAMutation
+##del	I-ProteinMutation	I-DNAMutation
+##MT	I-ProteinMutation	I-DNAMutation
+##TT	I-ProteinMutation	I-DNAMutation
+##VP	I-ProteinMutation	I-DNAMutation
+
+
+203	B-DNAMutation	B-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+264	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+550	B-DNAMutation	B-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+PT	O	I-DNAMutation
+##C	O	I-DNAMutation
+
+65	B-DNAMutation	B-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+C	B-DNAMutation	B-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+in	I-DNAMutation	O
+c	I-DNAMutation	O
+##D	I-DNAMutation	O
+##NA	I-DNAMutation	O
+
+620	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+62	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+in	I-DNAMutation	O
+c	I-DNAMutation	O
+##D	I-DNAMutation	O
+##NA	I-DNAMutation	O
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+104	I-DNAMutation	I-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+104	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##TT	I-DNAMutation	I-DNAMutation
+##CT	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##AC	I-DNAMutation	I-DNAMutation
+##AC	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+345	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+37	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##28	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+84	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+_	I-DNAMutation	I-DNAMutation
+84	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##AC	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+113	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+79	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+61	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+53	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##32	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+52	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+170	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+2	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+-	O	B-DNAMutation
+102	O	I-DNAMutation
+##1	O	I-DNAMutation
+##T	O	I-DNAMutation
+
+
+T	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+##70	I-DNAMutation	O
+##4	I-DNAMutation	O
+
+T	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+-	I-DNAMutation	O
+34	I-DNAMutation	O
+##4	I-DNAMutation	O
+
+A	B-DNAMutation	O
+/	I-DNAMutation	O
+C	I-DNAMutation	O
+##11	I-DNAMutation	O
+##6	I-DNAMutation	O
+##6	I-DNAMutation	O
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##32	I-DNAMutation	I-DNAMutation
+
+
+100	B-DNAMutation	B-DNAMutation
+##34	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+C	B-DNAMutation	B-DNAMutation
+##27	I-DNAMutation	I-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+61	I-DNAMutation	I-DNAMutation
+##6	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+52	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+50	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+89	I-DNAMutation	I-DNAMutation
+##7	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+155	I-DNAMutation	I-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+155	I-DNAMutation	I-DNAMutation
+##9	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+
+Ex	B-DNAMutation	B-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
++	I-DNAMutation	I-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+100	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+26	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+13	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
++	B-DNAMutation	B-DNAMutation
+142	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+G	I-DNAMutation	I-DNAMutation
+
++	B-DNAMutation	B-DNAMutation
+35	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+/	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+79	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+204	I-DNAMutation	I-DNAMutation
+##5	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+46	B-DNAMutation	B-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+
+118	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+119	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##A	I-DNAMutation	I-DNAMutation
+
+125	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+126	I-DNAMutation	I-DNAMutation
+##ins	I-DNAMutation	I-DNAMutation
+##AA	I-DNAMutation	I-DNAMutation
+
+
+C	B-DNAMutation	B-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+C	B-DNAMutation	B-DNAMutation
+##27	I-DNAMutation	I-DNAMutation
+##0	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+206	I-DNAMutation	I-DNAMutation
+##8	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+4	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+c	B-DNAMutation	B-DNAMutation
+.	I-DNAMutation	I-DNAMutation
+104	I-DNAMutation	I-DNAMutation
+##del	I-DNAMutation	I-DNAMutation
+##T	I-DNAMutation	I-DNAMutation
+
+
+IV	B-DNAMutation	B-DNAMutation
+##S	I-DNAMutation	I-DNAMutation
+##1	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+1	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+
+Delta	B-DNAMutation	B-DNAMutation
+##32	I-DNAMutation	I-DNAMutation
+
+
+-	B-DNAMutation	B-DNAMutation
+208	I-DNAMutation	I-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+C	I-DNAMutation	I-DNAMutation
+
+-	B-DNAMutation	B-DNAMutation
+128	I-DNAMutation	I-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+
+A	B-ProteinMutation	B-DNAMutation
+##4	I-ProteinMutation	I-DNAMutation
+##9	I-ProteinMutation	I-DNAMutation
+##T	I-ProteinMutation	I-DNAMutation
+
+
+C	B-DNAMutation	B-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+substitution	I-DNAMutation	O
+at	I-DNAMutation	I-DNAMutation
+position	I-DNAMutation	I-DNAMutation
+-	I-DNAMutation	I-DNAMutation
+86	I-DNAMutation	I-DNAMutation
+##3	I-DNAMutation	I-DNAMutation
+
+
+100	B-DNAMutation	B-DNAMutation
+##34	I-DNAMutation	I-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+
+208	B-DNAMutation	B-DNAMutation
+##4	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+1780	B-DNAMutation	B-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+124	B-DNAMutation	B-DNAMutation
+##2	I-DNAMutation	I-DNAMutation
+##G	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+T	I-DNAMutation	I-DNAMutation
+
+1780	B-DNAMutation	B-DNAMutation
+##C	I-DNAMutation	I-DNAMutation
+>	I-DNAMutation	I-DNAMutation
+A	I-DNAMutation	I-DNAMutation
+
+

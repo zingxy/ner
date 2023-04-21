@@ -1,0 +1,772 @@
+11102979       	==========	
+tmvar          	35delG    35delG    645-648delTAGA    645-648delTAGA    E47K    I128I    R32C    R32C
+ours           	35delG    35delG    645-648delTAGA    645-648delTAGA    E47K    I128I    R32C    R32C
+
+29065368       	==========	
+tmvar          	rs10767592    rs7939644
+ours           	rs10767592    rs7939644
+
+21926974       	==========	
+tmvar          	rs10994359    rs1625579    rs2239547    rs4765905
+ours           	rs10994359    rs1625579    rs2239547    rs4765905
+
+12554680       	==========
+tmvar          	C113R    C113R    C113R    C113R    C113R    C113R    P237S    P237S    P237S    P237S    P237S
+ours           	C    C    C    C    C    C    C                       P237S    P237S    P237S    P237S    P237S
+
+31562340       	==========	
+tmvar          	
+ours           	
+
+17804836       	==========	
+tmvar          	rs3761847
+ours           	rs3761847
+
+15870828       	==========	
+tmvar          	
+ours           	
+
+27182965       	==========	
+tmvar          	rs13107325
+ours           	rs13107325
+
+21743469       	==========	
+tmvar          	
+ours           	
+
+23281178       	==========	
+tmvar          	
+ours           	
+
+17914575       	==========	
+tmvar          	C135R    Cys135Arg    Cys135Arg    p.C135R    p.C135R
+ours           	C135R    Cys135Arg    Cys135Arg    p.C135    p.C135
+
+22092154       	==========	
+tmvar          	
+ours           	
+
+26318430       	==========	
+tmvar          	T>C    T>C    T>G    T>G    rs11055786    rs1126497    rs13959    rs3130932
+ours           	rs11055786    rs1126497    rs1157    rs1157    rs1157    rs11915160    rs13959T    rs3130932
+
+22113474       	==========	
+tmvar          	rs13139310    rs3756094    rs3775572    rs793814
+ours           	rs13139310    rs3756094    rs3775572    rs793814
+
+29942086       	==========	
+tmvar          	
+ours           	
+
+23226241       	==========	
+tmvar          	rs10830963    rs10830963    rs10830963    rs1387153
+ours           	rs10830963    rs10830963    rs10830963    rs1387153
+
+23263486       	==========	
+tmvar          	
+ours           	
+
+18511570       	==========	
+tmvar          	
+ours           	
+
+25729630       	==========	
+tmvar          	
+ours           	
+
+10408782       	++++++++++	
+tmvar          	Q232X    R252W    R408W    V388M
+ours           	IVS10nt-11    IVS11nt5    IVS12nt1    Q232X    R252W    R408W    V388M
+
+18931482       	==========	
+tmvar          	
+ours           	
+
+23923981       	==========	
+tmvar          	c.1155dupC    c.232G>A    c.497delC    c.91C>T    p.G78R    p.I386HfsX56    p.R31X    p.T166RfsX9
+ours           	c.1155dupC    c.232G>A    c.497delC    c.91C>T    p.G78R    p.I386HfsX56    p.R31X    p.T166RfsX9
+
+17293347       	==========	
+tmvar          	
+ours           	
+
+23170061       	==========	
+tmvar          	p.A52T    p.F181L    p.M181T    p.M64V    p.R340H
+ours           	p.    p.    p.    p.    p.
+
+27113481       	==========	
+tmvar          	rs12277366    rs12277366    rs143975731    rs143975731    rs200331695    rs200331695    rs2155222    rs2155222    rs2155225    rs2155225
+ours           	rs12277366    rs12277366    rs143975731    rs143975731    rs200331695    rs200331695    rs2155222    rs2155222    rs2155225    rs2155225
+
+1840561        	==========	
+tmvar          	CCG----CGG transversion in codon 347    Pro----Arg    Pro-347-Leu    Pro-347-Ser
+ours           	Pro----Arg    Pro-347-Arg    Pro-347-Leu    Pro-347-Ser
+
+21326295       	==========	
+tmvar          	rs7758128
+ours           	rs7758128
+
+17198989       	==========	
+tmvar          	T353I    T353I    T353I    T353I    T353I    T353I
+ours           	T353I    T353I    T353I    T353I    T353I    T353I
+
+30660753       	++++++++++	
+tmvar          	D171N
+ours           	D171N    F33?L
+
+19941167       	==========	
+tmvar          	
+ours           	
+
+21462282       	==========	
+tmvar          	
+ours           	
+
+10377081       	==========	
+tmvar          	E1784K    E1784K    E1784K    Glu1784 by Lys
+ours           	E1784K    E1784K    E1784K    Glu1784 by Lys
+
+24453288       	==========	
+tmvar          	L858R    T790M
+ours           	L858R    T790M
+
+26910043       	==========	
+tmvar          	p.Gly56Arg    p.Gly56Arg    p.Gly56Arg    p.Gly56Arg    p.Gly56Arg    p.Gly56Arg
+ours           	p.Gly56Arg    p.Gly56Arg    p.Gly56Arg    p.Gly56Arg    p.Gly56Arg    p.Gly56Arg
+
+22286219       	==========	
+tmvar          	
+ours           	
+
+30019117       	==========	
+tmvar          	
+ours           	
+
+23104005       	==========	
+tmvar          	rs138213197    rs188140481    rs188140481
+ours           	rs138213197    rs188140481    rs188140481
+
+8659549        	==========	
+tmvar          	32 deltaT    32 deltaT    876 deltaAGAA    876 deltaAGAA    A305E    C152Y    C152Y    D114E    D114E    E285A    G123E    G123E    G27R    G27R    I16T    I16T    R168C    R168C    Y231X
+ours           	32 deltaT    32 deltaT    876 deltaAGAA    876 deltaAGAA    A305E    C152Y    C152Y    D114E    D114E    E285A    G123E    G123E    G27R    G27R    I16T    I16T    R168C    R168C    Y231X
+
+11007980       	==========	
+tmvar          	A140V    A140V
+ours           	A140V    A140V
+
+20937265       	==========	
+tmvar          	-516 T/C    -516 T/C    C/T    C/T    rs344781    rs344781    rs4065    rs4065    rs4065    rs4065
+ours           	-516 T/C    -516 T/C    C/T    C/T    rs344781    rs344781    rs4065    rs4065    rs4065    rs4065
+
+16621918       	==========	
+tmvar          	
+ours           	
+
+23222517       	==========	
+tmvar          	
+ours           	
+
+20112382       	==========	
+tmvar          	rs6822844    rs6822844    rs6822844    rs6822844    rs6822844    rs6822844    rs6822844
+ours           	rs6822844    rs6822844    rs6822844    rs6822844    rs6822844    rs6822844    rs6822844
+
+29674119       	==========	
+tmvar          	E257K
+ours           	E257K
+
+16737834       	==========	
+tmvar          	
+ours           	
+
+26866668       	==========	
+tmvar          	rs5743704    rs5743704    rs5773704
+ours           	rs5743704    rs5743704    rs5773704
+
+21799727       	==========	
+tmvar          	K68N    rs1800435    rs2761016    rs8177796
+ours           	K68N    rs1800435    rs2761016    rs8177796
+
+27208204       	==========	
+tmvar          	
+ours           	
+
+22206016       	++++++++++	
+tmvar          	Arg213His    Arg213His    Arg213His    Arg213His    Arg213His    Arg213His    Ile105Val    Ile105Val    Ile105Val    Tyr113His    Tyr113His    Tyr113His    Tyr113His
+ours           	113TC    6235CC    Arg213His    Arg213His    Arg213His    Arg213His    Arg213His    Arg213His    Ile105Val    Ile105Val    Ile105Val    Tyr113His    Tyr113His    Tyr113His    Tyr113His
+
+19443294       	++++++++++	
+tmvar          	D489N    M>T    T278N    codon 620 (C>F)
+ours             C>F    C>R    C>W        codon 634 (C>R)
+
+16571647       	==========	
+tmvar          	
+ours           	
+
+1714904        	++++++++++	
+tmvar          	Ser106----Pro    Ser106----Pro    serine106----proline
+ours           	Pro106    Ser106----Pro    Ser106----Pro    serine106----proline
+
+22962670       	==========	
+tmvar          	
+ours           	
+
+29942085       	==========	
+tmvar          	
+ours           	
+
+23817569       	==========	
+tmvar          	rs10497813    rs17388568    rs17533090    rs1998359    rs2101521    rs6021270    rs7720838    rs9266772    rs9860547
+ours           	rs10497813    rs17388568    rs17533090    rs1998359    rs2101521    rs6021270    rs7720838    rs9266772    rs9860547
+
+19789204       	==========	
+tmvar          	c.6G>A    c.709A>T    p.A204E    p.A204E    p.R237W    p.R237W    p.W2X
+ours           	c.6G>A    c.709A>T    p.A204E    p.A204E    p.R237W    p.R237W    p.W2X
+
+24084575       	==========	
+tmvar          	c.-27C>A    c.-27C>A    c.-27C>A    c.85G>T    c.85G>T    c.85G>T
+ours           	c.-27C>A    c.-27C>A    c.-27C>A    c.85G>T    c.85G>T    c.85G>T
+
+24914498       	++++++++++
+tmvar          	c.146C>T
+ours           	c.146C>T    p.Thr49Me
+
+22337906       	==========	
+tmvar          	R160W    R160W    R160W    T152K    T152K    T152K    c.455C>A    c.478C>T
+ours           	R160W    R160W    R160W    T152K    T152K    T152K    c.455C>    c.478C>T
+
+20921462       	==========	
+tmvar          	
+ours           	
+
+20463881       	==========	
+tmvar          	
+ours           	
+
+23954377       	++++++++++	
+tmvar          	C702Y    E174K    E700K    E902K    G900R    P786L    R51H    R548C    R548H    R879Q
+ours           	C702Y    E174K    E700K    E902K    G900R    P786L    R51H    R548C    R548H    R879Q    Y9N
+
+18252757       	==========	
+tmvar          	C1850S    C1850S
+ours           	C1850S    C1850S
+
+25673413       	==========	
+tmvar          	
+ours           	
+
+20673819       	==========	
+tmvar          	F623I    c.1867T > A    p.F623I
+ours           	F623I    c.1867T > A    p.F623I
+
+10807542       	==========	
+tmvar          	
+ours           	
+
+19398669       	==========	
+tmvar          	677 C>T    677 C>T    677C>T
+ours           	677 C>T    677 C>T    677C>T
+
+16941484       	==========	
+tmvar          	
+ours           	
+
+28821231       	==========
+tmvar          	c.1426_1429delATGA    p.M1I    p.M476 fs
+ours           	c.1426_1429delATGA    c.3G?>?T    p.    p.M476?fs
+
+24444108
+tmvar          	p.Arg602Trp    p.Arg602Trp    p.Arg602Trp
+ours           	p.Arg602Trp    p.Arg602Trp    p.Arg602Trp
+
+25918834       	==========	
+tmvar          	rs34548976
+ours           	rs34548976
+
+9272155        	==========	
+tmvar          	Gly-216-Arg
+ours           	Gly-216-Arg
+
+25052705       	==========	
+tmvar          	p.R337H    p.R337H    p.R337H    p.R337H    p.R337H
+ours           	p.R337H    p.R337H    p.R337H    p.R337H    p.R337H
+
+1590804        	----------	
+tmvar          	Asp128 to Asn    G to A transition at nucleotide 454
+ours           	
+
+21999818       	==========	
+tmvar          	Glu 117 stop    Glu 117 stop    Glu 117 stop    Ile 436 Lys    Ile 436 Lys    Ile 436 Lys    Ile436Lys    Ile436Lys
+ours           	Glu 117 stop    Glu 117 stop    Glu 117 stop    Ile 436 Lys    Ile 436 Lys    Ile 436 Lys    Ile436Lys    Ile436Lys
+
+10436378       	==========	
+tmvar          	
+ours           	
+
+16802107       	==========	
+tmvar          	N961S    S666N    c.1997G>A    c.2882A>G
+ours           	N961S    S666N    c.1997G>A    c.2882A>G
+
+23430834       	==========	
+tmvar          	
+ours           	
+
+25534755       	==========	
+tmvar          	
+ours           	
+
+29481669       	==========	
+tmvar          	
+ours           	
+
+11734061       	++++++++++	
+tmvar          	366GC>AT    CGC>TGC    R122C    R122C    R122H    R122H    R122H    c.364C>T    c.365 through 366GC>AT    c.365G>A    c.365G>A    c.365G>A
+ours           	R122C    R122C    R122H    R122H    R122H    c.364C>T (CGC>TGC    c.365 through 366GC>AT    c.365 through 366GC>AT    c.365G>A    c.365G>A    c.365G>A
+
+16485124       	==========	
+tmvar          	c.1171C>T    c.1387C>G    c.2104C>T    c.2138G>A    c.2278C>T    c.2368C>T    c.2371C>T    c.2462+10A>C    c.2475C>G    c.2546C>T    c.2722G>C    c.3019_3020insC    p.A849V    p.G908R    p.Leu1007fsX1008    p.N825K    p.P463A    p.R391C    p.R702W    p.R713H    p.R760C    p.R790W    p.R791W
+ours           	c.1171C>T    c.1387C>G    c.2104C>T    c.2138G>A    c.2278C>T    c.2368C>T    c.2371C>T    c.2462+10A>C    c.2475C>G    c.2546C>T    c.2722G>C    c.3019_3020insC    p.A849V    p.G908R    p.Leu1007fsX1008    p.N825K    p.P463A    p.R391C    p.R702W    p.R713H    p.R760C    p.R790W    p.R791W
+
+15879175       	----------	
+tmvar          	proline-to-glutamine substitution at position 112
+ours           	
+
+26722489       	++++++++++	
+tmvar          	Lys751Gln    Lys751Gln
+ours           	Ls751Gln    Lys751Gln    Lys751Gln
+
+30236074       	++++++++++	
+tmvar          	m.15923A>G    m.15923A > G    m.15923A > G    m.15923A > G
+ours           	m. 15923A?>?G    m.15923A>G    m.15923A?>?G    m.15923A?>?G    m.15923A?>?G    m.15923A?>?G
+
+22051736       	++++++++++	
+tmvar          	844ins68    844ins68    A1298C    A2756G    A66G    A67G    A80G    C1420T    C677CT    C677T    C677T    C776G    CBS 844ins68    G1958A    G742A
+ours           	1298AC/CC    844ins68    844ins68    844ins68    A1298C    A2756G    A66G    A67G    A80G    C1420T    C677CT    C677T    C677T    C776G   G1958A    G742A    TT
+
+16358218       	==========	
+tmvar          	T468M    Y279C
+ours           	T468M    Y279C
+
+29146897       	==========	
+tmvar          	
+ours           	
+
+18538294       	==========	
+tmvar          	A300S    F55L    H170Q    I65S    P275L    P314S    R408W    S310Y    Y414C    Y417H
+ours           	A300S    F55L    H170Q    I65S    P275L    P314S    R408W    S310Y    Y414C    Y417H
+
+11499718       	==========	
+tmvar          	
+ours           	
+
+21211798       	==========	
+tmvar          	rs2569512    rs2569512    rs2569512    rs6929846    rs6929846    rs6929846
+ours           	rs2569512    rs2569512    rs2569512    rs6929846    rs6929846    rs6929846
+
+18596051       	==========	
+tmvar          	-1131T > C    -1131T > C    S19W    S19W    S447X    rs12130333    rs17145738    rs17321515    rs3135506    rs328    rs4846914    rs662799    rs780094
+ours           	-1131T > C    -1131T > C    S19W    S19W    S447X    rs12130333    rs17145738    rs17321515    rs3135506    rs328    rs4846914    rs662799    rs780094
+
+26634245       	==========	
+tmvar          	
+ours           	
+
+31667733       	==========	
+tmvar          	R132H
+ours           	R132H
+
+17764108       	==========	
+tmvar          	D652N    IVS15 + 6C > T    IVS31 - 634C > A    IVS34 + 39T > C    V114I    rs10109984    rs1231202    rs2230009    rs4986850    rs8178097
+ours           	D652N    IVS15 + 6C > T    IVS31 - 634C > A    IVS34 + 39T > C    V114I    rs10109984    rs1231202    rs2230009    rs4986850    rs8178097
+
+29482350       	==========	
+tmvar          	p.Arg72Pro    rs1042522
+ours           	p.Arg72Pro    rs1042522
+
+23040497       	==========	
+tmvar          	c.161A>T    c.293A>G    p.Asn53Ile    p.Asn97Ser    p.Asn97Ser
+ours           	c.161A>T    c.293A>G    p.Asn53Ile    p.Asn97Ser    p.Asn97Ser
+
+12111250       	==========	
+tmvar          	
+ours           	
+
+27061120       	==========	
+tmvar          	Gly741Arg    Ser616Phe    Ser616Phe
+ours           	Gly741Arg    Ser616Phe    Ser616Phe
+
+23315542       	==========	
+tmvar          	
+ours           	
+
+22306654       	==========	
+tmvar          	rs11712066    rs29784    rs573872
+ours           	rs11712066    rs29784    rs573872
+
+30510241       	==========	
+tmvar          	
+ours           	
+
+26722403       	==========	
+tmvar          	c.2T>C    p.M1T
+ours           	c.2T>C    p.
+
+18540691       	==========	
+tmvar          	Ile105Val    Ile105Val    Ile105Val    Ile105Val    Ile105Val    isoleucine with valine at codon 105
+ours           	677T    Ile105Val    Ile105Val    Ile105Val    Ile105Val    Ile105Val
+
+9600456        	==========	
+tmvar          	E174K    E174K    E174K    E174K    F352C    F352C    F383Y    F383Y    F383Y    F383Y    M647V    V368I    phenylalanine (352)-to-cysteine    phenylalanine (383)-to-tyrosine
+ours           	(383)-to-    E174K    E174K    E174K    E174K    F352C    F352C    F383Y    F383Y    F383Y    F383Y    M647V    V368I    phenylalanine (352)-to-cysteine
+
+11301010       	==========	
+tmvar          	
+ours           	
+
+24483153       	----------	
+tmvar          	V575G    V575G    V575G    V575G    valine by glycine at amino acid 575
+ours           	hGR?V575G    hGR?V575G    hGR?V575G    hGR?V575G
+
+11528396       	==========	
+tmvar          	
+ours           	
+
+18830229       	==========	
+tmvar          	
+ours           	
+
+29187746       	==========	
+tmvar          	
+ours           	
+
+17668386       	==========	
+tmvar          	
+ours           	
+
+18518985       	++++++++++	
+tmvar          	c.2054G>C    c.2054G>C    c.2054G>C    p.R685P    p.R685P
+ours           	c.2054G>C    c.2054G>C    c.2054G>C    p.R685    p.R685    p.R685
+
+20554659       	==========	
+tmvar          	
+ours           	
+
+16141009       	==========	
+tmvar          	
+ours           	
+
+24632578       	++++++++++	
+tmvar          	G/T    rs1042522    rs1042522    rs11202592    rs11202592    rs1130214    rs1130233    rs1130233    rs2279244    rs2494732    rs3730358    rs3803300
+ours           	A/A    Arg/Pro + Pro/Pro    C/C    G/T + G/G    rs1042522    rs1042522    rs11202592    rs11202592    rs1130214    rs1130233    rs1130233    rs2279244    rs2494732    rs3730358    rs3803300
+
+9554454        	++++++++++	
+tmvar          	107Ser-->Leu    1138G-->A    1214G-->A    1294T-->A    159Pro-->Leu    163Arg-->Stop    341Ala-->Thr    366Ser-->Asn    393Trp-->Arg    437C-->T    593C-->T    604C-->T
+ours           	107Ser-->Leu    1138G-->A    1214G-->A    1294T-->A    159Pro-->Leu    163Arg-->Stop    341Ala-->Thr    366Ser-->Asn    393Trp-->Arg    437C-->T    593C-->T    593T/593T    604C-->T
+
+25501212       	==========	
+tmvar          	C509T    G800A    rs1095    rs1095    rs12532    rs8670
+ours           	C509T    G800A    rs1095    rs1095    rs12532    rs8670
+
+9853249        	++++++++++	
+tmvar          	L278F    R648X    R704X    S270R
+ours           	L278F    R648X    R704X    S270R    ag-->cg
+
+15519027       	==========	
+tmvar          	
+ours           	
+
+25643770       	==========	
+tmvar          	rs17031962    rs882294
+ours           	rs17031962    rs882294
+
+25148534       	==========	
+tmvar          	rs11465421    rs1544766    rs2287886    rs2287886    rs2287886    rs4804800    rs4804800    rs4804801    rs4804804    rs735239    rs735239    rs735240    rs735240    rs735240    rs8112310
+ours           	rs11465421    rs1544766    rs2287886    rs2287886    rs2287886    rs4804800    rs4804800    rs4804801    rs4804804    rs735239    rs735239    rs735240    rs735240    rs735240    rs8112310
+
+27854360       	==========	
+tmvar          	
+ours           	
+
+25423914       	==========	
+tmvar          	1451C > T    1451C > T    1451C > T    1451C > T    1612G > A    1725G > A    1725G > A    1725G > A    1725G > A    rs10434    rs3025040    rs3025053
+ours           	1451C > T    1451C > T    1451C > T    1451C > T    1612G > A    1725G > A    1725G > A    1725G > A    1725G > A    rs10434    rs3025040    rs3025053
+
+22871920       	==========	
+tmvar          	
+ours           	
+
+27592234       	==========	
+tmvar          	+252 (G/A)    +3953(C/T)    -1082(A/G)    -308(G/A)    -511(A/G)    -592(C/A)    -819(C/T)    rs1143634    rs16944    rs1800629    rs1800871    rs1800872    rs1800896    rs909253
+ours           	+252 (G/A)    +3953(C/T)    -1082(A/G)    -308(G/A)    -511(A/G)    -592(C/A)    -819(C    rs1143634    rs16944    rs1800629    rs1800871    rs1800872    rs1800896    rs909253
+
+23219996       	==========	
+tmvar          	c.1075C>T    c.281T>C    p.Gln359*    p.Ile94Thr
+ours           	c.1075C>T    c.281T>C    p.Gln359    p.Ile94Thr
+
+9215689        	==========	
+tmvar          	
+ours           	
+
+31451708       	==========	
+tmvar          	
+ours           	
+
+10332035       	==========	
+tmvar          	
+ours           	
+
+11606101       	==========	
+tmvar          	185delAG    185delAG    5382insC    6174delT    6985delCT
+ours           	185delAG    185delAG    5382insC    6174delT    6985delCT
+
+9580132        	----------	
+tmvar          	G to T transition at nucleotide 2101    G279A
+ours           	G279A
+
+23788249       	==========	
+tmvar          	
+ours           	
+
+26061994       	----------	
+tmvar          	ATG4A    ATG4A    ATG4A    ATG4A    ATG4A    rs807185    rs807185    rs807185    rs807185    rs807185    rs807185    rs807185    rs807185
+ours           	rs807185    rs807185    rs807185    rs807185    rs807185    rs807185    rs807185    rs807185
+
+23396983       	==========	
+tmvar          	
+ours           	
+
+12588888       	++++++++++	
+tmvar          	
+ours           	alphaV132L    alphaV132L
+
+24166829       	==========	
+tmvar          	c.1060C>T    c.299T>C    p.Arg12Gln    p.Arg186Trp    p.Arg385Cys    p.Gln286Arg    p.Gln354*    p.Glu189Gly    p.Ile100Thr    p.Ile100Thr    p.Val178Met
+ours           	c.1060C>T    c.299T>C    p.Arg12Gln    p.Arg186Trp    p.Arg385Cys    p.Gln286Arg    p.Gln354*    p.Glu189Gly    p.Ile100Thr    p.Ile100Thr    p.Val178Met
+
+22504420       	==========	
+tmvar          	
+ours           	
+
+22772377       	==========	
+tmvar          	c.5917+6T>C
+ours           	c.5917+6T>C
+
+15776427       	++++++++++	
+tmvar          	p.M50K    p.R333M    p.R333M    p.T188I    p.Y457X
+ours           	c.499+?_629-?    p.M50K    p.R333M    p.R333M    p.T188I    p.Y457X
+
+19896331       	==========	
+tmvar          	Val66Met    Val66Met    Val66Met    Val66Met    Val66Met    Val66Met    Val66Met    Val66Met
+ours           	Val66Met    Val66Met    Val66Met    Val66Met    Val66Met    Val66Met    Val66Met    Val66Met
+
+27903959       	==========	
+tmvar          	rs2912759    rs7090018
+ours           	rs2912759    rs7090018
+
+26540169       	==========	
+tmvar          	
+ours           	
+
+26058727       	==========	
+tmvar          	V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E
+ours           	V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E    V600E
+
+27149063       	==========	
+tmvar          	c.541C>T    rs1314913    rs1314913    rs1314913    rs2588809    rs2588809    rs2588809    rs999737    rs999737    rs999737
+ours           	c.541C>T    rs1314913    rs1314913    rs1314913    rs2588809    rs2588809    rs2588809    rs999737    rs999737    rs999737
+
+20385819       	==========	
+tmvar          	
+ours           	
+
+17873326       	++++++++++	
+tmvar          	L849H    L849H    R852H
+ours           	849H    849H    L849H    L849H    R852H
+
+21360504       	++++++++++	
+tmvar          	Q412R    Q412R    Q412R    rs1131665    rs1131665    rs1131665    rs1131665    rs4963128    rs4963128
+ours           	412Q    412Q    412Q    412R    Q412R    Q412R    Q412R    rs1131665    rs1131665    rs1131665    rs1131665    rs4963128    rs4963128
+
+21119755       	==========	
+tmvar          	IVSI-5(G>C)    IVSI-5(G>C)    T>C
+ours           	IVSI-5(G>C)    IVSI-5(G>C)    Poly A(T>C)
+
+27098658       	==========	
+tmvar          	
+ours           	
+
+26841219       	==========	
+tmvar          	A>G    A>T    G>A    G>A    G>A    T>C    rs10951982    rs10951982    rs6954996    rs6954996    rs702482    rs702482    rs702483    rs702483    rs702483    rs836488    rs836488    rs836488    rs9374    rs9374
+ours           	A>G    A>T    G>A    G>A    G>A    T>C    rs10951982    rs10951982    rs6954996    rs6954996    rs702482    rs702482    rs702483    rs702483    rs702483    rs836488    rs836488    rs836488    rs9374    rs9374
+
+17221873       	==========	
+tmvar          	c.1068+1G>T    c.1233+8T>C    c.1835_1836delCC    c.245+1G>A    c.75+2insT    p.Arg148Cys    p.Arg201His    p.Arg59His    p.Gly123Arg    p.Pro549Leu
+ours           	c.1068    c.1233+8T>C    c.1835_1836delCC    c.245    c.75+2insT    p.Arg148Cys    p.Arg201His    p.Arg59His    p.Gly123Arg    p.Pro549Leu
+
+18456723       	==========	
+tmvar          	p.Phe2004Leu
+ours           	p.Phe2004Leu
+
+12677556       	==========	
+tmvar          	M390R    M390R
+ours           	M390R    M390R
+
+30630878       	==========	
+tmvar          	-351A/G    -351A/G    -351A/G    -397T/C    -397T/C    rs2234693    rs2234693    rs9340799    rs9340799
+ours           	-351A/G    -351A/G    -351A/G    -397T/C    PvuII -397T/C    rs2234693    rs2234693    rs9340799    rs9340799
+
+23148524       	==========	
+tmvar          	p.Arg125Cys    p.Ile106Phe
+ours           	p.Arg125Cys    p.Ile106Phe
+
+23056546       	==========	
+tmvar          	Ile462Val    Ile462Val    Ile462Val    Ile462Val    Ile462Val    Ile462Val
+ours           	Ile462Val    Ile462Val    Ile462Val    Ile462Val    Ile462Val    Ile462Val
+
+30038396       	==========	
+tmvar          	
+ours           	
+
+21156761       	==========	
+tmvar          	
+ours           	
+
+8244332        	==========	
+tmvar          	Arg169 to Pro    G506 to C
+ours           	Arg169 to Pro    G506 to C
+
+10200054       	----------	
+tmvar          	glycine to glutamate at codon 378
+ours           	
+
+21241800       	==========	
+tmvar          	S277L    S277L    S277L    S277L    S277L
+ours           	S277L    S277L    S277L    S277L    S277L
+
+30929738       	==========	
+tmvar          	
+ours           	
+
+25611685       	==========	
+tmvar          	
+ours           	
+
+29430075       	==========	
+tmvar          	
+ours           	
+
+30863424       	==========	
+tmvar          	rs1126616    rs1126616    rs1564858    rs1800247    rs1800247    rs2238135    rs2248359    rs2248359    rs2248359    rs35068180    rs35068180    rs385564    rs4236    rs4236
+ours           	rs1126616    rs1126616    rs1564858    rs1800247    rs1800247    rs2238135    rs2248359    rs2248359    rs2248359    rs35068180    rs35068180    rs385564    rs4236    rs4236
+
+28991256       	==========	
+tmvar          	
+ours           	
+
+21960694       	==========	
+tmvar          	rs1686109    rs16861205    rs16861209    rs17366568    rs17366568    rs182052    rs182052    rs2082940    rs266729    rs266729    rs3774261    rs3774261    rs7639352    rs822391
+ours           	rs1686109    rs16861205    rs16861209    rs17366568    rs17366568    rs182052    rs182052    rs2082940    rs266729    rs266729    rs3774261    rs3774261    rs7639352    rs822391
+
+31231134       	==========	
+tmvar          	
+ours           	
+
+22519808       	==========	
+tmvar          	p.R1193Q    p.R1193Q
+ours           	p.R1193Q    p.R1193Q
+
+2106480        	----------	
+tmvar          	arginine changed to glutamine at amino acid residue 2209    asparagine to aspartic acid at amino acid residue 1922    tyrosine changed to cysteine at amino acid residue 1709
+ours           	
+
+1985460        	==========	
+tmvar          	
+ours           	
+
+1642278        	==========	
+tmvar          	
+ours           	
+
+20976770       	==========	
+tmvar          	
+ours           	
+
+11420676       	==========	
+tmvar          	
+ours           	
+
+15266303       	==========	
+tmvar          	
+ours           	
+
+12442275       	==========	
+tmvar          	2663-2664insA    3857delT
+ours           	2663-2664insA    3857delT
+
+19343596       	==========	
+tmvar          	1858C/T    C1858T    R620W    R620W    R620W    R620W
+ours           	1858C/T    C1858T    R620W    R620W    R620W    R620W
+
+16969279       	==========	
+tmvar          	C677T    C677T    C677T    C677T
+ours           	C677T    C677T    C677T    C677T
+
+26619011       	==========	
+tmvar          	
+ours           	
+
+27460420       	==========	
+tmvar          	
+ours           	
+
+11013452       	==========	
+tmvar          	104C>T    841-843delGGA    841-843delGGA    841-843delGGA    G281del    T35M    T35M    T35M
+ours           	104C>T    841-843delGGA    841-843delGGA    841-843delGGA    G281del    T35M    T35M    T35M
+
+21051598       	==========	
+tmvar          	
+ours           	
+
+30595370       	==========	
+tmvar          	
+ours           	
+
+16981056       	++++++++++	
+tmvar          	D192G    D192G
+ours           	D192G    D192G    Y481Stop    Y481Stop
+
+20020534       	++++++++++	
+tmvar          	c.2800G>T    p.C38Y    p.G221D    p.K253M    p.M118R    p.Q595H    p.S926L    p.V903F
+ours           	K253    K253    c.2800G>T    p.C38Y    p.K253M    p.M118R    p.Q595H    p.S926L    p.V903F
+
+7540133        	==========	
+tmvar          	P574H    P574H    P574H    P574H    P574H    P574H    P574H    P574H    R560T    R560T    delta F508    delta I507, delta F508
+ours           	P574H    P574H    P574H    P574H    P574H    P574H    P574H    P574H    R560T    R560T    delta F508    delta I507
+
+27915083       	==========	
+tmvar          	rs4244285    rs4986893
+ours           	rs4244285    rs4986893
+
+24837172       	==========	
+tmvar          	rs12614
+ours           	rs12614
+
+26497376       	==========	
+tmvar          	
+ours           	
+
+10331951       	==========	
+tmvar          	
+ours           	
+
+11686223       	++++++++++	
+tmvar          	C282Y    C282Y    C282Y    C282Y    C282Y    C282Y    C282Y
+ours           	C282Y    C282Y    C282Y    C282Y    C282Y    C282Y    C282Y    H63D    H63D    H63D    H63D
+
+20884846       	==========	
+tmvar          	
+ours           	
+
+22411443       	==========	
+tmvar          	c.219G>A    c.219G>A    rs2281983    rs2281983    rs3758549    rs3758549    rs4919621    rs4919621
+ours           	c.219G>A    c.219G>A    rs2281983    rs2281983    rs3758549    rs3758549    rs4919621    rs4919621
+

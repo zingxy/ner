@@ -1,0 +1,416 @@
+11447291       	H57A
+TMVAR          	
+OURS           	
+
+16403639       	E45N
+TMVAR          	E45N
+OURS           	E45N
+
+12414796       	G146A    G146A    G146V    G146V
+TMVAR          	G146A    G146A    G146V    G146V    Gly --> Ala
+OURS           	G146A    G146A    G146V    G146V    GXXh(T/S)X    Gly --> Ala
+
+11148029       	N194A
+TMVAR          	Asn194Ala
+OURS           	Asn194Ala
+
+16443929       	C384S    H554Q
+TMVAR          	
+OURS           	
+
+8384877        	D235A    D235A    D235E    D235E    D235N    D235N
+TMVAR          	Asp-235 with Glu    D235A    D235A    D235E    D235N    D235N
+OURS           	D235A    D235A    D235E    D235N    D235N
+
+10913274       	G37Q    H78G    Q58G    Q58G    R50G
+TMVAR          	Delta101    Delta47    G37Q    H78G    Q58G    Q58G    R50G
+OURS           	Delta101    Delta47-48    G37Q    H78G    Q58G    Q58G    R50G
+
+11371193       	D113N    D113N    D113N    E117Q    E117Q    E117Q    G131K    R132A    R42A    R82A    V18K
+TMVAR          	D113N/E    D113N/E    D113N/E    E117Q    E117Q    E117Q    G131K    R132A/D    R42A/R    R82A/R    V18K/G
+OURS           	D113N    D113N    D113N    E117Q    E117Q    E117Q    G131K    R132A    R42A/    R82A    V18K
+
+9655825        	R292K    R292K    R292K
+TMVAR          	Arg292-->Lys    Arg292-->Lys    Arg292-->Lys
+OURS           	Arg292-->Lys    Arg292-->Lys    Arg292-->Lys
+
+8706698        	D115E    D117E    D120E    D152E    D71E    E58D    K154R    K154R    K56R    K56R    R78K    R78K    Y89F
+TMVAR          	D115E    D117E    D120E    D152E    D71E    E58D    K154R    K154R    K56R    K56R    R78K    R78K    Y89F
+OURS           	D115E    D117E    D120E    D152E    D71E    E58D    K154R    K154R    K56R    K56R    R78K    R78K    Y89F
+
+12228249       	D641A    D641A    D641N
+TMVAR          	D641A    D641A    D641N
+OURS           	D641A    D641A    D641N
+
+8805557        	C32S    C35S    C73S    C73S
+TMVAR          	Cys32-->Ser/C    Cys35-->Ser    Cys73-->Ser    Cys73-->Ser
+OURS           	Cys32-->Ser    Cys35-->Ser    Cys73-->Ser    Cys73-->Ser
+
+9694855        	H162R    H162R    H162R    H162Y    R269K    R269T
+TMVAR          	H162R    H162R    H162R    H162Y    R269K    R269T
+OURS           	H162R    H162R    H162R    H162Y    R269K    R269T
+
+15697221       	S65A    Y66S
+TMVAR          	S65A Y66S
+OURS           	S65A    Y66S
+
+9108091        	P236L
+TMVAR          	Pro-236-Leu
+OURS           	Pro-236-Leu
+
+12208978       	D67N    K219N    K70R    M184V    M41L    M41L    M41L    T215F    T215Y    T215Y    T215Y
+TMVAR          	D67N    K219N    K70R    M184V    M41L    M41L    M41L    T215F    T215Y    T215Y    T215Y
+OURS           	D67N    K219N    K70R    M184V    M41L    M41L    M41L    T215F    T215Y    T215Y    T215Y
+
+10970744       	P47H    P47H
+TMVAR          	P47H    Pro47 with His
+OURS           	P47H
+
+11867764       	W241A    W241F    W241H    W241Q    W241Y    W332F
+TMVAR          	Trp-241 was replaced with Ala or Gln
+OURS           	Tyr > Phe
+
+10877847       	F18A    F18A    F18W    Y20W
+TMVAR          	Tyr20 to Trp
+OURS           	
+
+14661960       	L119A    L293A    N289A    N289A    N289A
+TMVAR          	L119A    L293A    N289A    N289A    N289A
+OURS           	L119A    L293A    N289A    N289A    N289A
+
+12909636       	D264A    D264E    D264E    D264E    D264E    D264H    D264K    D264N    D264Q    D280E
+TMVAR          	D264E    D264E    D264E    D280E    aspartate 264 to alanine
+OURS           	D264E    D264E    D264E    D280E
+
+9514636        	E7A    E7D
+TMVAR          	Glu-7-->Ala    Glu-7-->Asp
+OURS           	Glu-7-->Ala    Glu-7-->Asp
+
+8475042        	S120C    S120C    S129C    S129C    S4C    S4C    S92C    S92C
+TMVAR          	S120C    S120C    S129C    S129C    S92C    S92C
+OURS           	S120C    S120C    S129C    S129C    S4C    S4C    S92C    S92C
+
+9466928        	A16C    A16H    A16H    A16M    A16R    A16T    A16Y    A16Y
+TMVAR          	Ala16 > Cys    Ala16 > His    Ala16 > Tyr
+OURS           	Ala16 > Cys    Ala16 > His    Ala16 > Tyr
+
+8918534        	A300D    A300D
+TMVAR          	300 from alanine to aspartic acid    Ala300-->Asp
+OURS           	Ala300-->Asp
+
+15843024       	G16V    T84A
+TMVAR          	G16V    T84A
+OURS           	G16V    T84A
+
+15794647       	L29W    L29W    L29W
+TMVAR          	L29W    L29W    L29W
+OURS           	L29W    L29W    L29W
+
+1881877        	D102N    S195C
+TMVAR          	D102N    S195C
+OURS           	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        D102N    S195C
+
+9558361        	C319A    C319A    C319A    C319A    C319A    C319A    C319A    K217A    K217A    K217A    K217A    K217A    K217C    K217C    K217C    K217C    K217C    K217C    K217C    K217E    K217E    K217E    K217E
+TMVAR          	C319A    C319A    C319A    C319A    C319A    C319A    Cys319 was replaced by Ala    K217A    K217A    K217A    K217A    K217E    K217E    K217E    Lys217 replaced by Glu, Cys, and Ala
+OURS           	217C    217C    217C    217C    217C    217C    C319A    C319A    C319A    C319A    C319A    C319A    Cys319    K    K    K    K    K    K    K    K    K    K    K    K    K    K    K    K217A    K217A    K217A    K217A    K217C    K217C    K217C    K217C    K217C    K217C    K217E    K217E    K217E
+
+9405053        	C130A    C130A    C130S    C130S    C130S    K164A    K43A    K43A    K43E    K43E    N132A    N132A    N132A
+TMVAR          	Asn 132 to Ala    C130A    C130A    C130S    C130S    C130S    K164A    K43A    K43E    Lys 43 to Ala or Glu    N132A    N132A
+OURS           	Asn 132 to Ala    C130A    C130A    C130S    C130S    C130S    K164A    K43A    K43E    N132A    N132A
+
+16288913       	D33A    D79A    D79F    D79F    D79F    Q94K    Q94K
+TMVAR          	D33A    D79A    Q94K    Q94K
+OURS           	D33A    D79A    D79F    D79F    D79F    Q94K    Q94K
+
+14661963       	R109K    R109M    R109Q    R112K    R112K    R112M    R112Q    R79K    R79M    R79Q
+TMVAR          	R109K    R112K
+OURS           	R109K    R112K
+
+11513582       	M84R    M84R    M84R
+TMVAR          	M84R    M84R    M84R
+OURS           	M84R    M84R    M84R
+
+8663370        	P105G    P105G    P105G
+TMVAR          	P105G    P105G    P105G
+OURS           	P105G    P105G    P105G
+
+1525170        	C77A    C77A    C77A    C77A    C95A    C95A
+TMVAR          	
+OURS           	
+
+12927546       	D189S    D189S    D189S    D189S    D189S    S189D    S189D    S189D    S189D    S189D    S189D
+TMVAR          	Asp189Ser    D189S    D189S    D189S    D189S    S189D    S189D    S189D    S189D    S189D    Ser189Asp
+OURS           	Asp189Ser    Cys191    D189S    D189S    D189S    D189S    S189D    S189D    S189D    S189D    S189D    Ser189Asp    s220
+
+16216071       	Y303S    Y303S    Y303S    Y303W
+TMVAR          	Tyr303Ser    Tyr303Ser    Tyr303Ser    Tyr303Trp
+OURS           	Tyr303Ser    Tyr303Ser    Tyr303Ser    Tyr303Trp
+
+12649440       	D143A    D143A    D143A    D143A    D147A    D147A
+TMVAR          	D143A    D143A    D143A/D    D143A/D    D147A    D147A
+OURS           	
+
+8176740        	W92D
+TMVAR          	
+OURS           	
+
+2684274        	G169A    M50F    N218S    N76D    Q206C    Y217K
+TMVAR          	G169A    M50F    N218S    N76D    Y217K
+OURS           	G169A    M50F    N218S    N76D    Q206C    Y217K
+
+1553543        	F153A    F153A    F153A    L118A    L121A    L121A    L133A    L46A    L46A    L46A    L46A    L99A    L99A    L99A    L99A
+TMVAR          	F153A    F153A    L118A    L121A    L121A    L133A    L46A    L46A    L46A    L99A    L99A    L99A    L99A/F    Leu46----Ala    Phe153----Ala
+OURS           	F153A    F153A    L118A    L121A    L121A    L133A    L46A    L46A    L46A    L99A    L99A    L99A    L99A    Leu----Ala    Leu46----Ala    Phe153----Ala
+
+8987974        	A65F    A65G    A65H    A65L    A65S    A65S    A65T    A65T
+TMVAR          	A65F    A65G    A65H    A65L    A65S    A65T
+OURS           	A65F    A65G    A65H    A65L    A65S    A65T
+
+3663686        	E35D    W109F    W109F    W109Y    W109Y    W64F    W64Y    Y63L
+TMVAR          	Trp-109 to Phe or Tyr    Trp-109 to Phe or Tyr, and Glu    Trp-64 to Phe or Tyr    Tyr-63 to Leu
+OURS           	
+
+11112523       	W92A    W92D    W92F    W92H    W92S    W92V
+TMVAR          	
+OURS           	
+
+15723541       	C77K    E211S    E211S    E211S    E211S    I50G    I50H    I50H    I50Q    V241A    V80D    V80D
+TMVAR          	E211S    E211S/I    E211S/I    E211S/I    I50G/C    I50H/V    I50H/V    I50Q    V241A    V80D    V80D
+OURS           	C77K    E211S    E211S    E211S    E211S    I50G    I50H    I50H    I50Q    V241A    V80D    V80D
+
+11069910       	E193A    E76A    H146A    H291A    N222S    R114W    R220W    T166M    Y224A
+TMVAR          	E193A    E76A    H291A    N222S    R114W    R220W    T166M    Y224A
+OURS           	Arg-114-alpha    Arg-220-alpha    Asn-222-alpha    E193A-alpha    E76A-beta'    Glu-193-alpha    Glu-76-beta'    H291A-alpha    His-146-beta'    His-291-alpha    N222S-alpha    R114W-alpha    R220W-alpha    T166M-alpha    Trp-136-beta    Tyr-224-alpha    Y224A-alpha
+
+7982928        	G134A    G134R    I132T    I132T
+TMVAR          	G134A    G134R    I132T/G    isoleucine to threonine mutation at residue 132
+OURS           	G134A    G134R    I132T
+
+15628861       	K66D    K66E    K66M
+TMVAR          	K66M    lysine 66 with aspartate or glutamate
+OURS           	K66M
+
+12033935       	W80G
+TMVAR          	Trp 80 was changed to Gly
+OURS           	
+
+8114095        	C138S    C138S
+TMVAR          	Cys138Ser    Cys138Ser
+OURS           	Cys138Ser    Cys138Ser
+
+8952503        	Y101F    Y101F    Y101F    Y101F    Y101S    Y32A    Y32A    Y32A    Y32A    Y50S    Y50S    Y50S
+TMVAR          	
+OURS           	VHTyr101Phe    VHTyr32Ala    VHY101F    VHY101F    VHY101F    VLTyr50Ser    VLY50S    VLY50S    VLY50S
+
+10603326       	C24S    C24S    C24S    F82A    F82A    F82A
+TMVAR          	C24S,F
+OURS           	C24S    C24S    C24S    F82A    F82A    F82A
+
+9354379        	D18N    D18N    N27D    N27D
+TMVAR          	
+OURS           	
+
+9514271        	I29A    M6A    M6A    M6A    V149A    V149A    V149A    V149A
+TMVAR          	Ile 29 --> Ala    Leu --> Ala    Leu --> Ala    Met 6 --> Ala    Met 6 with alanine    V149A    Val 149 --> Ala    Val 149 --> Ala    Val 149 --> Ala
+OURS           	Ile 29 -->    Leu -->    Leu -->    Leu --> Ala    Leu --> Ala    Met 6 --> Ala    V149A    Val 149 -->    Val 149 -->    Val 149 -->    Val 149 --> Ala    Val 149 --> Ala    Val 149 --> Ala
+
+2372535        	G79S    H124L
+TMVAR          	G79S    H124L
+OURS           	G79S    H124L
+
+15159559       	E46Q
+TMVAR          	E46Q
+OURS           	E46Q    Glu46    Glu46    Tyr42 Oeta
+
+9535826        	D60N    D60N
+TMVAR          	
+OURS           	alphaD60N    alphaD60N
+
+16008571       	N45D    N64D    N64D    N64D
+TMVAR          	N45D/N    N64D    N64D    N64D
+OURS           	N45D    N64D    N64D    N64D
+
+11264581       	Y98H    Y98H    Y98H    Y98H    Y98H    Y98H    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W
+TMVAR          	Y98H    Y98H    Y98H    Y98H    Y98H    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W
+OURS           	Y98H    Y98H    Y98H    Y98H    Y98H    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W    Y98W
+
+10828980       	R210K    R210K    R210K    R210K    R210K
+TMVAR          	Arg 210 to Lys    R210K    R210K    R210K    R210K
+OURS           	Arg 210 to Lys    R210K    R210K    R210K    R210K
+
+14756552       	E795Q
+TMVAR          	E795Q
+OURS           	E795Q
+
+15642261       	E46Q    E46Q
+TMVAR          	E46Q    E46Q
+OURS           	E46Q    E46Q
+
+11320302       	C102S    C102S    C102S    E20A    E20A    R80A    R80A
+TMVAR          	Arg80Ala    Cys102Ser    Cys102Ser    Glu20Ala
+OURS           	Cys102Ser    Cys102Ser    Zn-Arg80Ala    Zn-Glu20Ala-
+
+7703848        	D369A    D369A    D369A    D369N    D369N    D369N    D369N    D369N    D369N
+TMVAR          	Asp-369-->Asn    D369A    D369A    D369N    D369N    D369N    D369N
+OURS           	Asp-369-->Asn    D369A    D369A    D369N    D369N    D369N    D369N
+
+16083884       	T84A
+TMVAR          	T84A
+OURS           	T84A
+
+9271499        	S124A    S124A    S124A    S124A    S124T    S124T    S124T    S124V    S124V    S124V
+TMVAR          	S124A    S124A    S124A    S124A    S124T    S124T    S124T    S124V    S124V    S124V
+OURS           	S124A    S124A    S124A    S124A    S124T    S124T    S124T    S124V    S124V    S124V
+
+9692955        	D60N    D60N    D60N    D60N    D60N    K87T
+TMVAR          	D60N    D60N    D60N    D60N    D60N    K87T
+OURS           	D60N    D60N    D60N    D60N    D60N    K87T
+
+12374866       	L89T
+TMVAR          	L89T
+OURS           	L89T
+
+15522303       	S190A
+TMVAR          	
+OURS           	
+
+12065398       	N77Y
+TMVAR          	N77Y
+OURS           	N77Y
+
+11031266       	S554A
+TMVAR          	S554A
+OURS           	S554A
+
+10841779       	S167A    S167A    S167A    S167A    S167A    S167C    S167C    S167C    S167C    S167D    S167G    S167G    S167G    S167L    S167N    S167T    S167T    S167T    S167T    S167V
+TMVAR          	His 207-Asp    S167A    S167A    S167A    S167A    S167A    S167C    S167C    S167C    S167C    S167D    S167G    S167G    S167G    S167L    S167N    S167T    S167T    S167T    S167T    S167V
+OURS           	S167A    S167A    S167A    S167A    S167A    S167C    S167C    S167C    S167C    S167D    S167G    S167G    S167G    S167L    S167N    S167T    S167T    S167T    S167T    S167V
+
+12554939       	F42W    W120F
+TMVAR          	F42W/W    W120F
+OURS           	F42W    W120F
+
+12351824       	H42E    H42E    H42E    H42E    H42E    H42E    R38S    R38S    R38S
+TMVAR          	R38S/H    R38S/H    R38S/H
+OURS           	H42E    H42E    H42E    H42E    H42E    H42E    R38S    R38S    R38S
+
+8069625        	G88V    G88V    G88V    G88V    G88V    G88V
+TMVAR          	Gly88Val    Gly88Val    Gly88Val    Gly88Val    Gly88Val    glycine 88 with valine
+OURS           	Gly88Val    Gly88Val    Gly88Val    Gly88Val    Gly88Val
+
+11772019       	N298S    R195A    R195Q    R337A    R337Q
+TMVAR          	N298S    R195A    R195Q    R337A    R337Q
+OURS           	N298S    R195A    R195Q    R337A    R337Q
+
+2059620        	A34E    R37W
+TMVAR          	
+OURS           	A34----E34    R37----W37
+
+15897201       	D121A
+TMVAR          	D121A
+OURS           	2-24    D121A    delta
+
+1594573        	P80A    P80A    P80A    Y74F
+TMVAR          	Ala for Pro80    Pro80Ala    Pro80Ala    Tyr74 by Phe
+OURS           	Pro80Ala    Pro80Ala
+
+3072018        	G131D    P172D
+TMVAR          	Pro 172 and Gly 131 to Asp
+OURS           	
+
+16271889       	C168S
+TMVAR          	C168S
+OURS           	C168S
+
+10579814       	K103N    Y181C    Y181C
+TMVAR          	Lys103Asn    Tyr181Cys    Tyr181Cys
+OURS           	Lys103Asn    Tyr181Cys    Tyr181Cys
+
+8987980        	N170M    N170M    N170Q    N170Q    N170Q
+TMVAR          	N170M    N170M    N170Q    N170Q    N170Q
+OURS           	N170M    N170M    N170Q    N170Q    N170Q
+
+10653632       	C164A    C164A    H303Q    H303Q    N336A    N336A
+TMVAR          	C164A    C164A    H303Q    H303Q    N336A    N336A
+OURS           	C164A    C164A    H303Q    H303Q    N336A    N336A    e215    e215
+
+15994304       	G37A
+TMVAR          	G37A
+OURS           	G37A
+
+14581558       	N93D    N93R
+TMVAR          	Asn-93 to Asp and Arg
+OURS           	
+
+14699104       	S29F
+TMVAR          	Ser(29) to Phe
+OURS           	Ser(29) to Phe
+
+7493956        	D229N    D229N    D229N    D229N    D328N    E257Q    E257Q    E257Q    E257Q
+TMVAR          	D229N    D229N/E    D229N/E    D229N/E    D328N    E257Q    E257Q    E257Q    E257Q
+OURS           	D229N    D229N    D229N    D229N    D328N    E257Q    E257Q    E257Q    E257Q
+
+11371559       	D109K    E119K    G16V    T84A
+TMVAR          	Gly-16-->Val or Glu    Thr-84-->Ala or Asp
+OURS           	Asp-109-->Lys    Glu-119-->Lys    Gly-16-->Val    Thr-84-->Ala
+
+11148047       	L73A    L73A    N71A    N71D    N71Q    N71S    N71S    N71T    N71T    N71T    N71T    R74S    R74S    R74S    V72L    V72L    V72L
+TMVAR          	L73A    L73A    N71S    N71T    N71T    N71T    R74S    V72L
+OURS           	L73A    L73A    N71S    N71T    N71T    N71T    R74S    V72L
+
+15252033       	E217A    E217A    E217A    E217A    W215A    W215A    W215A    W215A
+TMVAR          	E217A    E217A    E217A    E217A    Glu-217 with Thr
+OURS           	E217A    E217A    E217A    E217A    W215A    W215A    W215A    W215A
+
+10194345       	E361Q    H447N    H447Q
+TMVAR          	Glu361Gln    His447Asn    His447Gln
+OURS           	Glu361Gln    His447Asn    His447Gln
+
+9571026        	G120R
+TMVAR          	G120R
+OURS           	G120R
+
+15449941       	T328N    T47M    Y164E    Y164E    Y164E    Y164F    Y164F    Y164H    Y164Q    Y164Q
+TMVAR          	T328N    T47M/Y    Tyr 164 to Glu and Phe    Y164E    Y164E/T    Y164F    Y164H    Y164Q    Y164Q/T
+OURS           	T328N    T47M    Thr 32    Tyr 164..    Y164E    Y164E    Y164F    Y164H    Y164Q    Y164Q
+
+12963370       	A4V    H43R    H43R
+TMVAR          	H43R    H43R
+OURS           	H43R    H43R
+
+15196010       	A76Y    A76Y    A76Y    A76Y    A76Y    D62A    D62A    F132A    F132A    F132A    I123A    I123A    L128A    L128A    S77F    S77F    S77F
+TMVAR          	A76Y    A76Y    A76Y/S    A76Y/S    A76Y/S    D62A    F132A/L    I123A/D    L128A/I    S77F    S77F    S77F
+OURS           	A76Y    A76Y    A76Y    A76Y    A76Y    D62A    F132A    I123A    L128A    S77F    S77F    S77F
+
+11320305       	K15R    M52L    P13A    T11A
+TMVAR          	Lys15Arg    Met52Leu    Pro13Ala    Thr11Ala
+OURS           	Lys15Arg    Met52Leu    Pro13Ala    Thr11Ala
+
+12711609       	G130A    G130A    S131A    S155C
+TMVAR          	G130A    Gly130 with alanine
+OURS           	G130A
+
+11779231       	T8H    T8R
+TMVAR          	
+OURS           	
+
+10080896       	H187D
+TMVAR          	His187Asp
+OURS           	His187Asp
+
+14617621       	M211S    R215L
+TMVAR          	M211S/R    R215L
+OURS           	M211S    R215L
+
+12215417       	L483Y    Y702F    Y702F
+TMVAR          	L483Y    Y702F    Y702F
+OURS           	L483Y    Y702F    Y702F
+
+11207290       	E73D
+TMVAR          	E73D
+OURS           	E73D
+
+11827517       	D100E    D100E    D100E    D100E
+TMVAR          	D100E    D100E    D100E    D100E
+OURS           	D100E    D100E    D100E    D100E
+

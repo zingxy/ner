@@ -1,0 +1,37 @@
+
+## without attention
+{'DNAMutation': {'f1': 0.8665207877461706,
+                 'number': 217,
+                 'precision': 0.825,
+                 'recall': 0.9124423963133641},
+ 'ProteinMutation': {'f1': 0.9556650246305418,
+                     'number': 204,
+                     'precision': 0.9603960396039604,
+                     'recall': 0.9509803921568627},
+ 'SNP': {'f1': 1.0, 'number': 39, 'precision': 1.0, 'recall': 1.0},
+ 'overall_accuracy': 0.9973851687880465,
+ 'overall_f1': 0.9160467587672688,
+ 'overall_precision': 0.896049896049896,
+ 'overall_recall': 0.9369565217391305}
+## char word without attention
+{'eval_loss': 21.32202911376953,
+'eval_precision': 0.8870292887029289,
+ 'eval_recall': 0.9217391304347826,
+ 'eval_f1': 0.9040511727078893,
+{'eval_loss': 21.39711570739746,
+'eval_precision': 0.9136069114470843,
+ 'eval_recall': 0.9195652173913044,
+  'eval_f1': 0.9165763813651138,
+   'eval_accuracy': 0.9969701162147205,
+
+## char
+{'eval_loss': 21.860055923461914,
+ 'eval_precision': 0.9096774193548387,
+  'eval_recall': 0.9195652173913044,
+   'eval_f1': 0.9145945945945946,
+    'eval_accuracy': 0.9970116214720531,
+     'eval_runtime': 47.6668,
+      'eval_samples_per_second': 37.238}
+
+## no char
+{'eval_loss': 18.85422134399414, 'eval_precision': 0.8976545842217484, 'eval_recall': 0.9152173913043479, 'eval_f1': 0.9063509149623251, 'eval_accuracy': 0.9971499723298285, 'eval_runtime': 47.4493, 'eval_samples_per_second': 37.408}

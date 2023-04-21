@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/data" />
+            <path value="file://$PROJECT_DIR$/Huggingface/finetune/checkpoint" />
+            <path value="file://$PROJECT_DIR$/Huggingface/finetune/performance" />
+            <path value="file://$PROJECT_DIR$/Huggingface/finetune/output" />
+            <path value="file://$PROJECT_DIR$/Huggingface/finetune/deepvar_parameters" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

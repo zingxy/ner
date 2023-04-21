@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://zing@10.16.24.230:22/home/zing/miniconda3/envs/ner_zing/bin/python3.9" />
+      </list>
+    </list>
+  </component>
+</project>
